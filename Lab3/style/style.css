@@ -1,0 +1,23 @@
+* {margin: 0; padding: 0;}
+
+html, body {
+  width:100%;
+  height:100%;
+}
+
+canvas {
+  display: block;
+  border: 1px solid #000;
+  cursor: crosshair;
+}
+
+#btn {
+  background-color: #ffbcd9;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 15px 15px;
+  cursor: pointer;
+}
