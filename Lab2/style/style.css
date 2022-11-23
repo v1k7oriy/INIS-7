@@ -1,0 +1,31 @@
+* {margin: 0; padding: 0;}
+
+svg{
+    cursor: pointer;
+    border: 1px solid #000000;
+}
+
+rect{
+    fill:none;
+    stroke: pink;
+    stroke-width: 3;
+}
+
+circle {
+    fill:none;
+    stroke: pink;
+    stroke-width: 3;
+  }
+
+#btn{
+    background-color: #ffbcd9;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+    cursor: pointer;
+}
